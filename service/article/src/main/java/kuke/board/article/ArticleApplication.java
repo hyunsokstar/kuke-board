@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CommentApplication {
+public class ArticleApplication {
     public static void main(String[] args) {
-        SpringApplication.run(CommentApplication.class, args);
+        SpringApplication.run(ArticleApplication.class, args);
     }
 
 }
